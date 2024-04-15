@@ -1,1 +1,7 @@
+Like supervised Ml algo have Precision, Recall , Accuracy, ROC and AUC curve, F-beta Score
+# Similary to validate Clustering Algorithm we have Silhouette Score
+
+**Reference:**
+https://en.wikipedia.org/wiki/Silhouette_(clustering)
+https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html#sphx-glr-auto-examples-cluster-plot-kmeans-silhouette-analysis-py
 
