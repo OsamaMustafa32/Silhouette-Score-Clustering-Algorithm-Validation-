@@ -1,4 +1,4 @@
-### Like supervised Ml Algorithm have Precision, Recall , Accuracy, ROC and AUC curve, F-beta Score to validate the model
+### Like supervised ML Algorithm have Precision, Recall , Accuracy, ROC and AUC curve, F-beta Score to validate the model
 ### Similary to validate Clustering Algorithm we have **Silhouette Score** 
 [Check out Code here](Silhouette_Score.ipynb)
 
